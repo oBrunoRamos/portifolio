@@ -1,0 +1,142 @@
+[
+  {
+    "id": "analisador-numeros",
+    "origem": "Curso",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/07/analizador-de-numeros.png?strip=info&w=2000",
+    "nome": "Analizador de Números",
+    "descricao": "O projeto é feito com html, css e js. Você pode digitar números ente um e cem até vocÊ decidri finalizar. Ao finalizar o analizador te diz: A quantidade de números digitados, o menor e o maior número da sequencia, a soma e aedia dos números digitados",
+    "tags": ["html", "css", "js"],
+    "link": "https://github.com/oBrunoRamos/analizador_de_numeros-curso_em_video",
+    "cor": "#135AC5"
+  },
+  {
+    "id": "animais-fantasticos",
+    "origem": "Curso",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/07/animais-fantasticos.png?strip=info&w=2000",
+    "nome": "Animais Fantásticos",
+    "descricao": "Porjeto montado durante um curso de JavaScritp puro, portanto o site é bem interativo. Com várias interações ao scroll e ao click.",
+    "tags": ["html", "css", "js"],
+    "link": "https://github.com/oBrunoRamos/animais_fantasticos-origamid",
+    "cor": "#fb5"
+  },
+  {
+    "id": "contador",
+    "origem": "Curso",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/07/contador.png?strip=info&w=2000",
+    "nome": "Contador de numeros",
+    "descricao": "Pojeto bem básico de JS. Nele você pode dizer em que número a contagem irá iniciar e onde ela irá terminar, dizendo tambem a quandtidade de umeros ele deve contar (De 1 em 1. 2 em2, etc.). Abaixo da seleção ele mostra a contagem.",
+    "tags": ["html", "css", "js"],
+    "link": "https://github.com/oBrunoRamos/contador-curso_em_video",
+    "cor": "#219"
+  },
+  {
+    "id": "google-glass",
+    "origem": "Curso",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/07/google-glass.png?strip=info&w=2000",
+    "nome": "Site GoogleGlass",
+    "descricao": "Site feito durante um curso de HTML5. A aplicação éfetita com HTML puro e CSS, e um pouquinho de JS.",
+    "tags": ["html", "css", "js"],
+    "link": "https://github.com/oBrunoRamos/googleGlass-Curso_em_Video",
+    "cor": "#606060"
+  },
+  {
+    "id": "make-burguer",
+    "origem": "Curso",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/07/make-your-burguer.png?strip=info&w=2000",
+    "nome": "Make Your Burguer",
+    "descricao": "A aplicação é visada para montagem de hamburguers. Nela é possivel montar seu hamburguer da forma que desejar e enviar a produção. Podemos definir também como está o andamneto do pedido. Foi usado JSON-Serverpara simular o back-end durante o projeto.",
+    "tags": ["html", "css", "vue.js"],
+    "link": "https://github.com/oBrunoRamos/Make_Your_Burguer",
+    "cor": "#EFA335"
+  },
+  {
+    "id": "find-id",
+    "origem": "Faculdade",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/08/find-id.png?strip=info&w=2000",
+    "nome": "Find It!!",
+    "descricao": "Prototype feito na faculdade durante a cadeira de LCP. A aplicação tinha como objetivo auxiliar estudantes que não tinam ideia do que fazer de TCC. A aplicação teria uma IA integrada para poder fazer o auxilio, e foruns para ajuda entre os usuários.",
+    "tags": ["figma"],
+    "link": "https://www.figma.com/design/fqbtfKspU6xBgvTz0zg8Cx/Prototype?node-id=219-2256&t=nQejbDqIw26m7JGm-1",
+    "cor": "#4E9AA5"
+  },
+  {
+    "id": "hora-do-dia",
+    "origem": "Curso",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/07/hora-dia.png?strip=info&w=2000",
+    "nome": "Hora do dia",
+    "descricao": "Código desenvolvido durante um curso de JS. A função do projeto é simplismente pegar a hora atual do seu computador, e com isso te mostrar a hora cheia e uma imagem. Dependendo o horário a imagem e a cor de fundo mudam.",
+    "tags": ["html", "css", "js"],
+    "link": "https://github.com/oBrunoRamos/hora_do_dia-JavaScript",
+    "cor": "#995f97"
+  },
+  {
+    "id": "ranek",
+    "origem": "Curso",
+    "src": "",
+    "nome": "Ranek",
+    "descricao": "Projeto final do curso de Vue da Origamid. O projeto conta com login, uma api do word-press feita durante outro curso, porém direcionado ao de Vue. E possibilidade de compra e venda de produtos, porém sem transação monetaria de fato.",
+    "tags": ["html", "css", "vue.js"],
+    "link": "https://github.com/oBrunoRamos/Ranek",
+    "cor": "#87f"
+  },
+  {
+    "id": "techno",
+    "origem": "Curso",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/07/techno.png?strip=info&w=2000",
+    "nome": "Techno",
+    "descricao": "Projeto feito em vue via CDN. Na aplicação é possivel visulizar itens e os adiciona-los no carrinho. Caso deseje pode excluilos do carrinho também. Ao finalizar a compra, nada acontece, pois não foi feito o regramento de venda.",
+    "tags": ["html", "css", "vue.js"],
+    "link": "https://github.com/oBrunoRamos/techno_projeto-origamid",
+    "cor": "#ccc"
+  },
+  {
+    "id": "techno-cursos",
+    "origem": "Curso",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/07/techno-cursos.png?strip=info&w=2000",
+    "nome": "Techno Cursos",
+    "descricao": "Projeto feito durante o Curso de Vue da Origamid. O projeto conta com diversas funcionalidades de Vue, pricipalmente os routers. Foram mais utilizados por conta do aprendizado do curso.",
+    "tags": ["html", "css", "vue.js"],
+    "link": "https://github.com/oBrunoRamos/tecno_cursos-origamid",
+    "cor": "#223344"
+  },
+  {
+    "id": "verificador-de-idade",
+    "origem": "Curso",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/07/verificador-de-idade.png?strip=info&w=2000",
+    "nome": "Verificador de Idade",
+    "descricao": "Progama que pergunta sua data de nascimento e sexo, em seguida faz uma verificação e baseado nos dados mostra uma imagem e uma frase referente sua faixa etária e sexo.",
+    "tags": ["html", "css", "js"],
+    "link": "https://github.com/oBrunoRamos/verificador_de_idade-curso_em_video",
+    "cor": "#059"
+  },
+  {
+    "id": "api-php",
+    "origem": "Faculdade",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/07/api-em-php.png?strip=info&w=2000",
+    "nome": "API em PHP",
+    "descricao": "Usando o Symfony e o Composer durante um dos semestres da faculdade, criamos uma api atrávez de linahs de comando. Na api é possivel fazer o CRUD completo de carros e seus donos",
+    "tags": ["php", "composer", "symfony"],
+    "link": "https://github.com/oBrunoRamos/api_final",
+    "cor": "#777BB3"
+  },
+  {
+    "id": "constrular",
+    "origem": "Faculdade",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/07/constrular.png?strip=info&w=2000",
+    "nome": "Constrular",
+    "descricao": "Site feito para avaliação final de uma das cadeiras inicias da faculdade. Sua estrutura é feita em html e seu JS e CSS é feito utilizado somente o framework Bootstrap",
+    "tags": ["html", "bootstrap"],
+    "link": "https://github.com/oBrunoRamos/constrular",
+    "cor": "#216EFB"
+  },
+  {
+    "id": "consultorio-dentista",
+    "origem": "Faculdade",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/08/consultorio-dentista.png?strip=info&w=2000",
+    "nome": "Consultório de Dentista",
+    "descricao": "Prototype feito na faculdade durante a cadeira de Engenharia de Software. A aplicação visava auxiliar na organização interna do estabelecimento. gerindo estoque, atendimentos e fichas técnicas dos pacientes.",
+    "tags": ["figma"],
+    "link": "https://www.figma.com/board/nZigsp2BMwgE2UhdNlIV4S/Untitled?node-id=0-1&t=Q7LuBIUoOfd4sW8U-1",
+    "cor": "#3D9F87"
+  }
+]

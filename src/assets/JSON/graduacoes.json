@@ -1,0 +1,201 @@
+[
+  {
+    "id": "ulbra-torres",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/07/ulbra-1.png?strip=info&w=2000",
+    "instituicao": "Ulbra Torres",
+    "curso": "ADS - Análise e Desenvolvimento de sistemas",
+    "link": "https://www.ulbra.br/",
+    "inicio": "01/2023",
+    "final": "00/0000",
+    "cursando": true,
+    "descricao": "Durante minha graduação na ULBRA Torres, tive a oportunidade de aprender com professores altamente capacitados e dedicados. Suas orientações foram fundamentais para o meu desenvolvimento acadêmico e profissional. Além do conhecimento teórico e prático adquirido, a experiência foi enriquecida pelas amizades e conexões que estabeleci ao longo do caminho. Meus colegas de curso tornaram-se não apenas parceiros de estudos, mas também amigos valiosos, com quem compartilhei desafios e conquistas. Foi nesse ambiente estimulante que dei os primeiros passos em direção à minha carreira, descobrindo minha paixão e definindo meus objetivos profissionais. A ULBRA Torres foi mais do que um espaço de aprendizado; foi o lugar onde iniciei minha trajetória no mundo profissional, e onde percebi o valor da colaboração e do conhecimento compartilhado. Sou grato por essa experiência formativa, que continua a influenciar minha carreira e minha visão de futuro.",
+    "aulas": [
+      {
+        "id": "ulbra-algoritimos",
+        "cor": "#2b5b84",
+        "nome": "Introdução a algoritimos",
+        "descricao": "Nesta cadeira, que foi uma das primeiras que cursei na faculdade, aprofundei meus conhecimentos em lógica de programação. Tive a oportunidade de trabalhar com algoritmos utilizando a linguagem Python, o que me proporcionou uma base sólida para desenvolver habilidades essenciais na área de programação.",
+        "semestre": "01/2023",
+        "professores": [
+          {
+            "id": "ulbra-juliano",
+            "nome": "Juliano Ramos Matos",
+            "link": ""
+          }
+        ],
+        "projetos": null,
+        "conhecimentos": [
+          "Lógica de programação",
+          "Uso de estruturas de repetição",
+          "Uso de estrturas condicionais"
+        ],
+        "ferramentas": ["Python", "VSCode"]
+      },
+      {
+        "id": "ulbra-idw",
+        "cor": "#510",
+        "nome": "Introdução a Desenvolvimento Web",
+        "descricao": "Aqui dei meus primeiros passos na área de desenvolvimento front-end. Durante o curso, trabalhei em projetos práticos, como a criação de um currículo. O ponto alto foi a construção de um site completo utilizando Bootstrap, sem a necessidade de escrever código CSS, o que destacou a importância de frameworks no desenvolvimento web.",
+        "semestre": "01/2023",
+        "professores": {
+          "id": "ulbra-juliano",
+          "nome": "Juliano Ramos Matos",
+          "link": ""
+        },
+        "projetos": ["Constrular"],
+        "conhecimentos": [
+          "Criação de estruturas básicas em HTML",
+          "Utilização de CSS para estilização e responsividade",
+          "Uso de Bootstrap como framework de CSS"
+        ],
+        "ferramentas": ["HTML", "CSS", "JavaScript", "VSCode", "Bootstrap"]
+      },
+      {
+        "cor": "#900",
+        "id": "ulbra-redes",
+        "descricao": "Nesta aula EAD, adquiri conhecimentos sobre redes, segurança digital, cabos de rede e noções básicas de criptografia. Esses tópicos são fundamentais para compreender a infraestrutura e a proteção dos dados na era digital.",
+        "semestre": "01/2023",
+        "nome": "Princípios de Segurança e Redes de Computadores",
+        "professores": [
+          {
+            "id": "ulbra-candido",
+            "nome": "Joao Candido de Lima",
+            "link": ""
+          }
+        ],
+        "projetos": null,
+        "conhecimentos": [
+          "Topologia de redes",
+          "Protocolos de endereçamento TCP/IP",
+          "Códigos maliciosos"
+        ],
+        "ferramentas": null
+      },
+      {
+        "id": "ulbra-engenhariaSortware",
+        "cor": "#149",
+        "nome": "Engenharia de Software",
+        "descricao": "Nesta cadeira, aprendi todo o ciclo de vida de desenvolvimento de software, desde a concepção e planejamento até a estruturação e pesquisa. Durante o curso, trabalhamos em um projeto de protótipo de software, aplicando os conceitos estudados.",
+        "semestre": "02/2023",
+        "professores": [
+          {
+            "id": "ulbra-juliano",
+            "nome": "Juliano Ramos Matos",
+            "link": ""
+          }
+        ],
+        "projetos": ["Software de Clinica Dentária"],
+        "conhecimentos": [
+          "Ciclos de Vida de Um Software",
+          "Metodologias de desenvolvimento",
+          "Arquitetura de Software"
+        ],
+        "ferramentas": ["Figma"]
+      },
+      {
+        "id": "ulbra-LCP",
+        "cor": "#A259FF",
+        "nome": "Laboratório de Criatividade e Projetos",
+        "descricao": "Nesta cadeira, aprendi a idealizar um software, avaliando a necessidade e viabilidade do projeto. O curso também abordou UI/UX, e realizamos um projeto prático para criar banners para o saguão da faculdade. Iniciamos com wireframes em papel e, posteriormente, utilizamos o Figma para desenvolver o protótipo final.",
+        "semestre": "02/2023",
+        "professores": [
+          {
+            "id": "ulbra-andrezza",
+            "nome": "Andrezza Vieira de Andrade",
+            "link": ""
+          }
+        ],
+        "projetos": ["Find It!!"],
+        "conhecimentos": [
+          "Benchmarking",
+          "Personas, Brainstorming e Priorização",
+          "Wireframes e Prototype"
+        ],
+        "ferramentas": ["Figma"]
+      },
+      {
+        "id": "ulbra-pw",
+        "cor": "#631",
+        "nome": "Programação WEB",
+        "descricao": "Nesta cadeira, começamos com a construção de uma estrutura MVC em PHP para compreender o conceito de APIs. Em seguida, utilizamos Symfony e Composer para desenvolver uma API completa, realizando todo o trabalho via linha de comando.",
+        "semestre": "02/2023",
+        "professores": [
+          {
+            "id": "ulbra-saraiva",
+            "nome": "Lucas Saraiva Cardoso",
+            "link": ""
+          }
+        ],
+        "projetos": ["API em PHP"],
+        "conhecimentos": ["Estrutura MVC", "Criação de API"],
+        "ferramentas": ["PHP", "Symfony", "Composer"]
+      },
+      {
+        "id": "ulbra-IAC",
+        "cor": "#129",
+        "nome": "Introdução a Computação",
+        "descricao": "Nesta cadeira, explorei a história dos computadores, fundamentos de hardware, conversão de bases e tabelas verdade. Esses tópicos proporcionaram uma base sólida para o entendimento dos princípios fundamentais da computação.",
+        "semestre": "01/2024",
+        "professores": [
+          {
+            "id": "ulbra-marize",
+            "nome": "Marise Hainzenreder",
+            "link": ""
+          }
+        ],
+        "projetos": null,
+        "conhecimentos": [
+          "Vercionamento com o Git",
+          "Hisória da técnologia",
+          "Conversão de Bases e Tabela Verdade",
+          "WordPress"
+        ],
+        "ferramentas": ["Git", "Github", "Wordpress"]
+      },
+      {
+        "id": "ulbra-LP",
+        "cor": "#429",
+        "nome": "Laboratório de Programação",
+        "descricao": "Nesta cadeira, aprendi os fundamentos da Programação Orientada a Objetos (POO) em C# usando .NET. A experiência despertou um grande interesse pela programação orientada a objetos e suas práticas.",
+        "semestre": "01/2024",
+        "professores": [
+          {
+            "id": "ulbra-fogaca",
+            "nome": "Lucas Rodrigues Schwartzhaupt Fogaca",
+            "link": ""
+          }
+        ],
+        "projetos": null,
+        "conhecimentos": [
+          "Pilares da POO",
+          "Criação e implementação de interfaces",
+          "Criação de classes abstratas e derivadas"
+        ],
+        "ferramentas": ["C#", "VSCode", "DotNET"]
+      },
+      {
+        "id": "ulbra-FDB",
+        "cor": "#503",
+        "nome": "Fundamento de Banco de Dados",
+        "descricao": "Nesta cadeira, aprendi a construir bancos de dados, desde a concepção até a implementação física, utilizando o SQL Server. O curso proporcionou uma compreensão abrangente dos princípios e práticas de gerenciamento de dados.",
+        "semestre": "01/2024",
+        "professores": [
+          {
+            "id": "ulbra-marize",
+            "nome": "Marise Hainzenreder",
+            "link": ""
+          }
+        ],
+        "projetos": null,
+        "conhecimentos": [
+          "Modelos conceituais, modelos ER e modelos lógicos de banco de dados.",
+          "Criação e Tabelas, alteração e exclusão via SQL",
+          "Criação de DML para a inserção de dados nas tabelas"
+        ],
+        "ferramentas": ["SQL Server", "VSCode", "SQL"]
+      }
+    ],
+    "corPrimaria": "#591B1C",
+    "graduacao": true
+  }
+]

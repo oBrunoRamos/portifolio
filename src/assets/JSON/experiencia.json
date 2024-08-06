@@ -1,0 +1,62 @@
+[
+  {
+    "id": "midia-tecnologia",
+    "nome": "Mídia Tecnologia",
+    "descricao": "Empresa familiar que trabalha com softwares próprios. Durante a minha jornada na empresa como suporte técnico, ajudei diversos clientes. Nossos desafios diários iam de instalar o software até alguma colorreção no banco de dados, caso necessário. Auxiliavamos os clientes a mexer nos softwares, emitiamos NFe's, NFCe's, MDF's e CTe's quando solicitado pelo cliente. Assim como cadastro e exculusão de produtos e funcionários do sistema",
+    "cidade": "Torres - RS",
+    "pais": "Brasil",
+    "formaTrabalho": "Presencial",
+    "cargo": "Suporte Técnico",
+    "funcoes": [
+      "Implantação de Software",
+      "Resolução de problemas",
+      "Manipulação do Banco de Dados",
+      "Emição de documentos fiscais",
+      "Configuração de Redes para o funcionamento do Sistema"
+    ],
+    "link": "https://midiatecnologia.com.br/home.php",
+    "cor": "#0078FF"
+  },
+  {
+    "id": "baterias-ramos",
+    "nome": "Baterias Ramos",
+    "descricao": "A empresa foi fundada pelo meu avô em 2020, onde trabalhei até o ano seguinte como funcionário. Depois, meu avô vendeu o estabelecimento para mim e para meu tio, e passei a gerenciar o local. Fui responsável por tudo, desde a parte financeira até a venda dos produtos. No início de 2022, vendi a loja, percebendo que não era o que eu queria para minha vida, e iniciei minha carreira como programador.",
+    "cidade": "Torres - RS",
+    "pais": "Brasil",
+    "formaTrabalho": "Presencial",
+    "cargo": "Sócio - Gerente",
+    "funcoes": [
+      "Gerente Geral",
+      "Limpeza e Segurança",
+      "Organização do Estoque",
+      "Atendimento ao cliente",
+      "Vendedor"
+    ],
+    "link": "https://www.bing.com/search?q=baterias+ramos+torres&qs=n&form=EX0050&sp=-1&ghc=1&lq=0&pq=baterias+ramos+torres&sc=10-21&sk=&cvid=4988BCBBA1E3438C8FF60EA54C069BD3&ghsh=0&ghacc=0&ghpl=&filters=local_ypid:'YN7993x10496027643296830970'&shtp=GetUrl&shid=2a3b1c2f-102b-4634-aac6-d2ae336fcf01&shtk=QmF0ZXJpYXMgUmFtb3M%3D&shdk=RW5jb250cmFkbyBubyBCaW5nLg%3D%3D&shhk=PtJBeigOQZHCRZeW84sMzxQ9NQa6tWPzv4vOCyq8L%2FM%3D",
+    "cor": "#016436"
+  },
+  {
+    "id": "baterias-guara",
+    "nome": "Baterias Guará",
+    "descricao": "Empresa de meus familiares. Atuei como vendedor e cuidava da limpeza, trabalhando em conjunto com meus colegas. Realizávamos o atendimento no estabelecimento e de forma presencial, indo ao cliente.",
+    "cidade": "Xangri-lá - RS",
+    "pais": "Brasil",
+    "formaTrabalho": "Presencial",
+    "cargo": "Vendedor",
+    "funcoes": ["Limpeza", "Organização do Estoque", "Atendimento ao cliente"],
+    "link": "https://www.bing.com/search?pglt=41&q=baterias+gura+xangrila&cvid=bbfe7cdd90574917b3c0cc97c9f862b4&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDUxNTVqMGoxqAIAsAIA&form=EX0050&pc=SMTS&filters=local_ypid:'YN7993x844574089'&shtp=GetUrl&shid=f6b71c34-0f4d-49bb-b73c-d07a27592f02&shtk=QmF0ZXJpYXMgR3VhcsOh&shdk=QSByZXZlbmRhIG1haXMgY29tcGxldGEgZGUgYmF0ZXJpYXMgZG8gbGl0b3JhbCBkbyBSUywgYXF1aSB2b2PDqiBlbmNvbnRyYSBiYXRlcmlhcyBwYXJhIHNldSBjYXJybywgYmFyY28sIOKApg%3D%3D&shhk=UT2VWDxCKdQmzY9N7GDhWGUKMEHjNL3dyWeCF4IqCjI%3D",
+    "cor": "#1F9D49"
+  },
+  {
+    "id": "capao-baterias",
+    "nome": "Capão Baterias",
+    "descricao": "Atuei como vendedor e cuidava da limpeza, trabalhando em conjunto com meu empregador. Além da limpeza do estabelecimento e produtos, realizávamos o atendimento no estabelecimento e de forma presencial, indo ao cliente.",
+    "cidade": "Capão da Canoa - RS",
+    "pais": "Brasil",
+    "formaTrabalho": "Presencial",
+    "cargo": "Vendedor",
+    "funcoes": ["Limpeza", "Organização do Estoque", "Atendimento ao cliente"],
+    "link": "https://www.bing.com/search?q=capão+baterias&qs=n&form=EX0050&sp=-1&ghc=1&lq=0&pq=capão+baterias&sc=11-14&sk=&cvid=893DFCC72CC142ECA1F1049360917AFB&ghsh=0&ghacc=0&ghpl=&filters=local_ypid:'YN7993x3021337074417366775'&shtp=GetUrl&shid=76d3890b-00b0-4549-bb12-f2cd482c6453&shtk=Q2Fww6NvIEJhdGVyaWFz&shdk=RW5jb250cmFkbyBubyBCaW5nLg%3D%3D&shhk=fNHoXnqq0nQjX5eEGKfQ%2B4pPQnrJPWbmh0yapT7tPAM%3D",
+    "cor": "#194A9F"
+  }
+]

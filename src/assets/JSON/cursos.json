@@ -1,0 +1,242 @@
+[
+  {
+    "id": "origamid",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/07/origamid-1.png?strip=info&w=2000",
+    "instituicao": "Origamid",
+    "link": "https://www.origamid.com/?utm_medium=adwords&utm_campaign=&utm_source=&gad_source=1&gclid=Cj0KCQjwhb60BhClARIsABGGtw-UWV41NEk4qQNyeNJIjYQTm6Wr2z0hPQCVbDqagcZ9mJkPzIxqR70aAhJOEALw_wcB",
+    "descricao": "A Origamid é uma plataforma de cursos especializada em desenvolvimento front-end e web design. Com uma vasta biblioteca de mais de 1.000 aulas, oferece uma ampla gama de recursos para aprofundar conhecimentos na área. Grande parte do meu aprendizado em web design foi adquirido através desta plataforma, que considero essencial para quem deseja aprimorar significativamente suas habilidades. A Origamid se destaca como uma excelente escolha para quem busca um avanço substancial no conhecimento e na prática de design web.",
+    "aulas": [
+      {
+        "id": "origamid-vue",
+        "cor": "#4b8",
+        "nome": "Vue.js 2 Completo",
+        "descricao": "Este curso completo de Vue 2 abordou o uso de todas as diretivas do framework, proporcionando um entendimento profundo da ferramenta. No final, desenvolvemos o Projeto Ranek, que aplicou amplamente as funcionalidades do Vue.",
+        "totalAulas": "112 Aulas",
+        "totalHoras": "22 Horas",
+        "link": "https://www.origamid.com/curso/vue-js-completo",
+        "ferramentas": [
+          "Vue.js",
+          "Axios",
+          "VSCode",
+          "Local by Flywheel",
+          "WordPress",
+          "Json-Server"
+        ],
+        "projetos": ["Techno", "Techno Cursos", "Ranek"],
+        "professores": [
+          {
+            "id": "origamid-andre",
+            "nome": "André Rafael",
+            "link": ""
+          }
+        ],
+        "conhecimentos": [
+          "Life Cicle Hooks",
+          "Transitions",
+          "Vue Router",
+          "VueX"
+        ],
+        "cursando": true
+      },
+      {
+        "id": "origamid-js",
+        "cor": "#FFD600",
+        "nome": "JavaScript Completo ES6",
+        "descricao": "Iniciei este curso para aprimorar minhas habilidades em JavaScript, abrangendo todas as diretivas do ES6. Embora ainda não tenha concluído o curso, estou atualmente focado no curso de Vue 2 para aprender a usar o framework. A combinação dos dois cursos tem enriquecido minha compreensão da programação web.",
+        "totalAulas": "156 Aulas",
+        "totalHoras": "37 Horas",
+        "link": "https://www.origamid.com/curso/javascript-completo-es6",
+        "ferramentas": ["HTML", "CSS", "JS", "VSCode"],
+        "projetos": ["Animais Fantásticos"],
+        "professores": [
+          {
+            "id": "origamid-andre",
+            "nome": "André Rafael",
+            "link": ""
+          }
+        ],
+        "conhecimentos": [""],
+        "cursando": true
+      },
+      {
+        "id": "rest-api",
+        "cor": "#00C7F5",
+        "nome": "WordPress REST API",
+        "descricao": "Este curso rápido de REST API com WordPress foi focado em criar uma API para ser utilizada no curso de Vue.js. O objetivo foi integrar o conhecimento de ambas as plataformas para desenvolver soluções web eficazes. ",
+        "totalAulas": "15 Aulas",
+        "totalHoras": "2 Horas",
+        "link": "https://www.origamid.com/curso/wordpress-rest-api",
+        "ferramentas": ["WordPress", "VSCode", "Local by Flywheel", "PHP"],
+        "projetos": ["API do projeto Ranek"],
+        "professores": [
+          {
+            "id": "origamid-andre",
+            "nome": "André Rafael",
+            "link": ""
+          }
+        ],
+        "conhecimentos": [
+          "Criação de uma API completa com WP",
+          "Funções do WP",
+          "Sintaxe de PHP"
+        ],
+        "cursando": false
+      }
+    ],
+    "corPrimaria": "#A675FB",
+    "graduacao": false
+  },
+  {
+    "id": "curso-em-video",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/07/curso_em_video-1.png?strip=info&w=2000",
+    "instituicao": "Curso em Vídeo",
+    "link": "https://www.cursoemvideo.com/",
+    "descricao": "A plataforma Curso em Vídeo tem o objetivo de democratizar o aprendizado de programação, oferecendo cursos acessíveis para todos que desejam iniciar sua jornada na área. Foi nesse ambiente que dei meus primeiros passos em programação, concluindo diversos cursos que fundamentaram minha base de conhecimento. A plataforma se destaca por seu compromisso em tornar a educação em programação acessível e de qualidade para iniciantes e entusiastas.",
+    "aulas": [
+      {
+        "id": "curso-em-video-algoritimos",
+        "cor": "#72C0FF",
+        "nome": "Algoritimos",
+        "descricao": "Este curso de Algoritmos forneceu uma introdução sólida à lógica de programação básica. Utilizando Portugol e Visualg, o curso me iniciou no caminho da programação, estabelecendo uma base fundamental para o desenvolvimento de habilidades na área.",
+        "totalAulas": "16 Aulas",
+        "totalHoras": "40 Horas",
+        "link": "https://www.cursoemvideo.com/curso/curso-de-algoritmo/",
+        "ferramentas": ["VISUALG", "Scratch 3", "Portugol"],
+        "projetos": null,
+        "professores": [
+          {
+            "id": "curso-em-video-guanabara",
+            "nome": "Gustavo Guanabára",
+            "link": ""
+          }
+        ],
+        "conhecimentos": [
+          "Lógica de programação básica",
+          "Estruturas condicionais e de repetição",
+          "Programação estruturada"
+        ],
+        "cursando": false
+      },
+      {
+        "id": "curso-em-video-html",
+        "cor": "#FECAA3",
+        "nome": "HTML5",
+        "descricao": "Este curso básico de HTML incluiu a criação de um projeto de site para o Google Glass. Embora alguns conceitos fossem mais antigos, o curso ofereceu uma base sólida e muito conhecimento, que pude absorver e aplicar em minha prática de desenvolvimento web.",
+        "totalAulas": "38 Aulas",
+        "totalHoras": "40 Horas",
+        "link": "https://www.cursoemvideo.com/curso/html5/",
+        "ferramentas": ["Gimp", "HTML", "VSCode"],
+        "projetos": ["Google Glass"],
+        "professores": [
+          {
+            "id": "curso-em-video-guanabara",
+            "nome": "Gustavo Guanabára",
+            "link": ""
+          }
+        ],
+        "conhecimentos": [
+          "Criação de elementos em HTML",
+          "Sintaxe e semântica",
+          "Uso do CSS para a estilização da aplicação"
+        ],
+        "cursando": false
+      },
+      {
+        "id": "curso-em-video-js",
+        "cor": "#FFEC6D",
+        "nome": "JavaScript",
+        "descricao": "Este curso básico de JavaScript abordou conceitos fundamentais, como seleção de variáveis, estruturas de repetição e o comando 'switch'. Durante o curso, realizamos vários projetos como exercícios práticos, aplicando os conhecimentos adquiridos de forma prática.",
+        "totalAulas": "26 Aulas",
+        "totalHoras": "40 Horas",
+        "link": "https://www.cursoemvideo.com/curso/javascript/",
+        "ferramentas": [],
+        "projetos": [
+          "Analizador de Numeros",
+          "Contador de Numeros",
+          "Hora do Dia",
+          "Verificador de Idade"
+        ],
+        "professores": [
+          {
+            "id": "curso-em-video-guanabara",
+            "nome": "Gustavo Guanabára",
+            "link": ""
+          }
+        ],
+        "conhecimentos": [
+          "Comando básicos do JavaScript",
+          "Manipulação básica do DOM"
+        ],
+        "cursando": false
+      }
+    ],
+    "corPrimaria": "#2222FF",
+    "graduacao": false
+  },
+  {
+    "id": "hora-de-codar",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/07/hora_de_codar-1.png?strip=info&w=2000",
+    "instituicao": "Hora de Codar",
+    "link": "https://www.youtube.com/@MatheusBattisti",
+    "descricao": "A plataforma Hora de Codar oferece uma variedade de cursos voltados para o desenvolvimento front-end. Iniciei minha experiência com o curso de Vue 3 e, posteriormente, explorei o curso de Node.js. Descobri a plataforma por meio de colegas da faculdade durante um projeto do Laboratório de Programação da ULBRA Torres. A Hora de Codar tem sido uma valiosa fonte de aprendizado, aprofundando meus conhecimentos em tecnologias essenciais para o desenvolvimento web.",
+    "aulas": [
+      {
+        "id": "hora-de-codar-vue",
+        "cor": "#4b8",
+        "nome": "Curso de Vue 3",
+        "descricao": "Este curso rápido de Vue 3 no YouTube foi realizado para adquirir conhecimentos essenciais sobre a plataforma, necessários para projetos acadêmicos. O curso foi particularmente útil para ajudar a desenvolver um projeto destinado a ajudar na venda de produtos da comunidade agrícola local da cidade de Torres.",
+        "totalAulas": "34 aulas",
+        "totalHoras": "4 horas",
+        "link": "https://www.youtube.com/watch?v=wsAQQioPIJs&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL",
+        "ferramentas": ["Vue.js", "VSCode", "Json-Server"],
+        "projetos": ["Make Your Burguer"],
+        "professores": [
+          {
+            "id": "hora-de-codar-matheus",
+            "nome": "Matheus Battisti",
+            "link": ""
+          }
+        ],
+        "conhecimentos": [
+          "Utilização de várias ferramentas do vue como: v-bind, componentes, props, lifeCycleHooks, etc.",
+          "Simulação de uma API utilizando JSON-Server",
+          "Utilização de loops como o v-for"
+        ],
+        "cursando": false
+      }
+    ],
+    "corPrimaria": "#1f9",
+    "graduacao": false
+  },
+  {
+    "id": "baltaio",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/07/baltaio-1.png?strip=info&w=2000",
+    "instituicao": "Balta.io",
+    "link": "https://balta.io/",
+    "descricao": "Esta plataforma foi recomendada por um dos meus professores na faculdade com o objetivo de expandirmos nosso conhecimento em programação, além do que é abordado nas aulas. A plataforma tem o propósito de complementar o aprendizado acadêmico com informações adicionais e práticas sobre a linguagem.",
+    "aulas": [
+      {
+        "id": "hora-de-codar-vue",
+        "cor": "#509",
+        "nome": "Fundamentos de C#",
+        "descricao": "CEste curso de C# foi recomendado durante a faculdade para aprofundar nosso conhecimento na linguagem. Ele me forneceu uma compreensão mais detalhada e prática de C#, complementando o aprendizado acadêmico.",
+        "totalAulas": "147 Aulas",
+        "totalHoras": "12 Horas",
+        "link": "https://balta.io/cursos/fundamentos-csharp",
+        "ferramentas": null,
+        "projetos": null,
+        "professores": [
+          {
+            "id": "baltaio-andre",
+            "nome": "André Baltieri",
+            "link": ""
+          }
+        ],
+        "conhecimentos": null,
+        "cursando": true
+      }
+    ],
+    "corPrimaria": "#8625d2",
+    "graduacao": false
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "id": "html",
+    "mostrar": true,
+    "nome": "HTML",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/07/html.png?strip=info&w=2000",
+    "descricao": "HTML foi a primeira linguagem de marcação com a qual tive contato após o Portugol, iniciando antes mesmo de entrar na faculdade. É fundamental para a estruturação de páginas web, permitindo a criação de conteúdo organizado. Ao longo da minha trajetória, o HTML será uma ferramenta essencial e frequentemente utilizada em diversos projetos.",
+    "cor": "#F16529"
+  },
+  {
+    "id": "css",
+    "mostrar": true,
+    "nome": "CSS",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/07/css.png?strip=info&w=2000",
+    "descricao": "CSS, sempre acompanhado do HTML, foi outra tecnologia que aprendi antes de entrar na faculdade. Ele é crucial para a estilização e apresentação visual das páginas web, permitindo a personalização do layout, cores, fontes e outros elementos de design.",
+    "cor": "#039BE5"
+  },
+  {
+    "id": "python",
+    "mostrar": true,
+    "nome": "Python",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/07/python.png?strip=info&w=600",
+    "descricao": "Após o primeiro semestre da faculdade, tive pouco contato com Python, mas considero-a uma linguagem versátil e interessante. Planejo investir mais tempo aprendendo Python no futuro.",
+    "cor": "#3774A7"
+  },
+  {
+    "id": "bootstrap",
+    "mostrar": true,
+    "nome": "Bootstrap",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/07/bootstrap.png?strip=info&w=600",
+    "descricao": "Durante a faculdade, utilizei Bootstrap em alguns projetos. Embora meu contato tenha sido limitado, considero-o uma ferramenta poderosa para criar interfaces responsivas e modernas. Mesmo sem me aprofundar, reconheço seu valor em projetos futuros.",
+    "cor": "#673AB7"
+  },
+  {
+    "id": "js",
+    "mostrar": true,
+    "nome": "JavaScript",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/07/js.png?strip=info&w=600",
+    "descricao": "Gostei muito da linguagem e me dei muito bem com ela. Já realizei alguns cursos sobre JavaScript e seus frameworks. Pretendo me tornar Fullstack nessa tecnologia, devido à sua versatilidade e ampla aplicação",
+    "cor": "#FFD600"
+  },
+  {
+    "id": "vue.js",
+    "mostrar": true,
+    "nome": "Vue.js",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/07/vue.png?strip=info&w=600",
+    "descricao": "Gostei muito do framework, que comecei a estudar por causa de projetos da faculdade. Acredito que Vue será útil em muitos trabalhos futuros. Inclusive, este portfólio foi feito com essa tecnologia.",
+    "cor": "#4b8"
+  },
+  {
+    "id": "php",
+    "mostrar": true,
+    "nome": "PHP",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/07/php.png?strip=info&w=600",
+    "descricao": "Tive pouco contato com PHP, mas o utilizei em um projeto na faculdade e em alguns cursos. Aprecio suas utilidades, especialmente por ser uma linguagem bastante permissiva em termos de codificação.",
+    "cor": "#777BB3"
+  },
+  {
+    "id": "figma",
+    "mostrar": true,
+    "nome": "Figma",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/07/figma.png?strip=info&w=600",
+    "descricao": "Adoro utilizar o Figma para criar protótipos visuais antes de iniciar meus projetos. Acredito que, por muito tempo, continuarei a usar esta plataforma devido à sua eficiência e versatilidade. Inclusive, este portifolio foi prototipado no Figma.",
+    "cor": "#09CD81"
+  },
+  {
+    "id": "composer",
+    "mostrar": true,
+    "nome": "Composer",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/08/composer.png?strip=info&w=2000",
+    "descricao": "Utilizei o gerenciador Composer apenas uma vez, para a criação de uma API na faculdade. No entanto, me interessei bastante pela tecnologia e vejo potencial para usá-la em projetos futuros.",
+    "cor": "#87552F"
+  },
+  {
+    "id": "symfony",
+    "mostrar": true,
+    "nome": "Symfony",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/08/symfony-2.png?strip=info&w=2000",
+    "descricao": "Utilizei Symfony apenas uma vez, junto com Composer, para criar uma API na faculdade. Achei muito prático, pois com poucas linhas de comando é possível criar uma API completa.",
+    "cor": "#000"
+  },
+  {
+    "id": "c#",
+    "mostrar": true,
+    "nome": "C#",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/07/c-sharp.png?strip=info&w=600",
+    "descricao": "Com C#, comecei a aprender POO e achei a estruturação de código muito interessante. No entanto, como procuro ser Fullstack na família Script, vou explorar mais o TypeScript, apesar de ter gostado bastante da linguagem C#.",
+    "cor": "#9866D3"
+  },
+  {
+    "id": "sqlServer",
+    "mostrar": true,
+    "nome": "SQL Server",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/07/sql-server.png?strip=info&w=600",
+    "descricao": "Utilizei bastante no terceiro semestre da faculdade para a criação e manipulação de bancos de dados. Foi meu primeiro contato com SQL Server, mas anteriormente já havia trabalhado com IBXpert para Firebird.",
+    "cor": "#EF3737"
+  },
+  {
+    "id": "wordpress",
+    "mostrar": true,
+    "nome": "WordPress",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/07/wordpress.png?strip=info&w=600",
+    "descricao": "Me aventurei na criação de sites com WordPress. Durante o curso de Vue3, fui direcionado a criar uma API usando WordPress. Por hora, meu contato foi esse, mas acredito que futuramente será muito útil.",
+    "cor": "#01579B"
+  },
+  {
+    "id": "react",
+    "mostrar": false,
+    "nome": "React",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/07/react.png?strip=info&w=600",
+    "descricao": "",
+    "cor": "#00D8FF"
+  },
+  {
+    "id": "node",
+    "mostrar": false,
+    "nome": "Node.JS",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/07/node.png?strip=info&w=600",
+    "descricao": "",
+    "cor": "#8CC84B"
+  },
+  {
+    "id": "java",
+    "mostrar": false,
+    "nome": "Java",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/07/java.png?strip=info&w=600",
+    "descricao": "",
+    "cor": "#5382A1"
+  },
+  {
+    "id": "flutter",
+    "mostrar": false,
+    "nome": "Flutter",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/08/flutter.png?strip=info&w=2000",
+    "descricao": "",
+    "cor": "#3DD1F9"
+  },
+  {
+    "id": "kotlin",
+    "mostrar": false,
+    "nome": "Kotlin",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/08/kottlin.png?strip=info&w=2000",
+    "descricao": "",
+    "cor": "#F78606"
+  },
+  {
+    "id": "ts",
+    "mostrar": false,
+    "nome": "Type Script",
+    "src": "https://brunodevportifolio.wordpress.com/wp-content/uploads/2024/08/typescript.png?strip=info&w=2000",
+    "descricao": "",
+    "cor": "#3178C6"
+  }
+]

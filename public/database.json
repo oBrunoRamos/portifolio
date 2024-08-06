@@ -1,0 +1,766 @@
+{
+  "inicio": {},
+  "sobremim": {
+    "nome": "Bruno Ramos Oliveira dos Santos",
+    "idade": "21 anos",
+    "email": "obrunoramosdev@gmail.com",
+    "competencia": "Desenvolvedor Front-end",
+    "numeroContato": "51 9-9464-4131 (Whtas-app)",
+    "naturalidade": "Esteio - RS",
+    "cidadeAtual": "Torres - RS",
+    "minhaHistoria": [
+      {
+        "id": "082022",
+        "titulo": "O Princípio",
+        "data": "08/2022",
+        "paragrafo": null
+      }
+    ],
+    "principaisTecnologias": [
+      {
+        "id": "html",
+        "nome": "HTML5",
+        "img": "../assets/tags/htmlTag.svg"
+      },
+      {
+        "id": "css",
+        "nome": "CSS3"
+      },
+      {
+        "id": "js",
+        "nome": "JavaScript"
+      },
+      {
+        "id": "vue",
+        "nome": "Vue.JS"
+      },
+      {
+        "id": "figma",
+        "nome": "Figma"
+      }
+    ],
+    "softSkills": [
+      {
+        "id": "lingua-ingles",
+        "skill": "Inglês",
+        "nivel": "100%"
+      },
+      {
+        "id": "lingua-ingles",
+        "skill": "Inglês",
+        "nivel": "100%"
+      },
+      {
+        "id": "lingua-ingles",
+        "skill": "Inglês",
+        "nivel": "100%"
+      },
+      {
+        "id": "lingua-ingles",
+        "skill": "Inglês",
+        "nivel": "100%"
+      },
+      {
+        "id": "lingua-ingles",
+        "skill": "Inglês",
+        "nivel": "100%"
+      }
+    ],
+    "redesSociais": [
+      {
+        "id": "linkedin",
+        "nome": "LinkedIn",
+        "link": "https://www.linkedin.com/in/bruno-ramos-7b74ab1a3/"
+      },
+      {
+        "id": "github",
+        "nome": "GitHub",
+        "link": "https://github.com/oBrunoRamos"
+      },
+      {
+        "id": "instagram",
+        "nome": "Instagram",
+        "link": "https://www.instagram.com/o.bruno_ramos/"
+      }
+    ]
+  },
+  "experiencias": [
+    {
+      "id": "midia-tecnologia",
+      "nome": "Mídia Tecnologia",
+      "descricao": "Empresa familiar que trabalha com softwares próprios. Durante a minha jornada na empresa como suporte técnico, ajudei diversos clientes. Nossos desafios diários iam de instalar o software até alguma colorreção no banco de dados, caso necessário. Auxiliavamos os clientes a mexer nos softwares, emitiamos NFe's, NFCe's, MDF's e CTe's quando solicitado pelo cliente. Assim como cadastro e exculusão de produtos e funcionários do sistema",
+      "cidade": "Torres - RS",
+      "pais": "Brasil",
+      "formaTrabalho": "Presencial",
+      "cargo": "Suporte Técnico",
+      "funcoes": [
+        "Implantação de Software",
+        "Resolução de problemas",
+        "Manipulação do Banco de Dados",
+        "Emição de documentos fiscais",
+        "Configuração de Redes para o funcionamento do Sistema"
+      ],
+      "link": "https://midiatecnologia.com.br/home.php",
+      "cor": "#0078FF"
+    },
+    {
+      "id": "baterias-ramos",
+      "nome": "Baterias Ramos",
+      "descricao": "",
+      "cidade": "Torres - RS",
+      "pais": "Brasil",
+      "formaTrabalho": "Presencial",
+      "cargo": "Sócio - Gerente",
+      "funcoes": [],
+      "link": "",
+      "cor": "#016436"
+    },
+    {
+      "id": "baterias-guara",
+      "nome": "Baterias Guará",
+      "descricao": "",
+      "cidade": "Xangri-lá - RS",
+      "pais": "Brasil",
+      "formaTrabalho": "Presencial",
+      "cargo": "Vendedor",
+      "funcoes": [],
+      "link": "",
+      "cor": "#1F9D49"
+    },
+    {
+      "id": "capao-baterias",
+      "nome": "Capão Baterias",
+      "descricao": "",
+      "cidade": "Capão da Canoa - RS",
+      "pais": "Brasil",
+      "formaTrabalho": "Presencial",
+      "cargo": "Vendedor",
+      "funcoes": [],
+      "link": "",
+      "cor": "#194A9F"
+    }
+  ],
+  "cursos": [
+    {
+      "id": "origamid",
+      "instituicao": "Origamid",
+      "link": "https://www.origamid.com/?utm_medium=adwords&utm_campaign=&utm_source=&gad_source=1&gclid=Cj0KCQjwhb60BhClARIsABGGtw-UWV41NEk4qQNyeNJIjYQTm6Wr2z0hPQCVbDqagcZ9mJkPzIxqR70aAhJOEALw_wcB",
+      "descricao": "",
+      "aulas": [
+        {
+          "id": "origamid-vue",
+          "cor": "#4b8",
+          "nome": "Vue.js 2 Completo",
+          "descricao": "",
+          "totalAulas": "112 Aulas",
+          "totalHoras": "22 Horas de Vídeo",
+          "link": "https://www.origamid.com/curso/vue-js-completo",
+          "ferramentas": [],
+          "projetos": [""],
+          "professores": [
+            {
+              "id": "origamid-andre",
+              "nome": "André Rafael",
+              "link": ""
+            }
+          ],
+          "conhecimentos": [
+            "Utilização de ferramentas como Computed, Watch, Methods, etc.",
+            "Utilização de v-on, v-model, v-bind, v-text, v-html",
+            "Criação e utilização de compunents, props, lifeCicleHooks, etc.",
+            "Utilização de Transitions em components",
+            "Criação de Routers, Routers Dinâmicos, Routers Children, etc."
+          ],
+          "cursando": true
+        },
+        {
+          "id": "origamid-js",
+          "cor": "",
+          "nome": "JavaScript Completo ES6",
+          "descricao": "",
+          "totalAulas": "156 Aulas",
+          "totalHoras": "37 Horas de Vídeo",
+          "link": "https://www.origamid.com/curso/javascript-completo-es6",
+          "ferramentas": [],
+          "projetos": [""],
+          "professores": [
+            {
+              "id": "origamid-andre",
+              "nome": "André Rafael",
+              "link": ""
+            }
+          ],
+          "conhecimentos": [""],
+          "cursando": true
+        }
+      ],
+      "corSecundaria": "#1B1D20",
+      "corPrimaria": "#A675FB",
+      "graduacao": false
+    },
+    {
+      "id": "curso-em-video",
+      "instituicao": "Curso em Vídeo",
+      "link": "https://www.cursoemvideo.com/",
+      "descricao": "",
+      "aulas": [
+        {
+          "id": "curso-em-video-algoritimos",
+          "cor": "",
+          "nome": "Algoritimos",
+          "descricao": "",
+          "totalAulas": "16 Aulas",
+          "totalHoras": "40 Horas de Vídeo",
+          "link": "https://www.cursoemvideo.com/curso/curso-de-algoritmo/",
+          "ferramentas": [],
+          "projetos": [""],
+          "professores": [
+            {
+              "id": "curso-em-video-guanabara",
+              "nome": "Gustavo Guanabára",
+              "link": ""
+            }
+          ],
+          "conhecimentos": [
+            "Lógica de programação básica",
+            "Estruturas condicionais e de repetição",
+            "Programação estruturada"
+          ],
+          "cursando": false
+        },
+        {
+          "id": "curso-em-video-html",
+          "cor": "",
+          "nome": "HTML5",
+          "totalAulas": "38 Aulas",
+          "totalHoras": "40 Horas de Vídeo",
+          "link": "https://www.cursoemvideo.com/curso/html5/",
+          "ferramentas": [],
+          "projetos": [""],
+          "professores": [
+            {
+              "id": "curso-em-video-guanabara",
+              "nome": "Gustavo Guanabára",
+              "link": ""
+            }
+          ],
+          "conhecimentos": [
+            "Criação de elementos em HTML",
+            "Sintaxe e semântica",
+            "Uso do CSS para a estilização da aplicação"
+          ],
+          "cursando": false
+        },
+        {
+          "id": "curso-em-video-js",
+          "cor": "",
+          "nome": "curso-em-video-js",
+          "totalAulas": "26 Aulas",
+          "totalHoras": "40 Horas de Vídeo",
+          "link": "https://www.cursoemvideo.com/curso/javascript/",
+          "ferramentas": [],
+          "projetos": [""],
+          "professores": [
+            {
+              "id": "curso-em-video-guanabara",
+              "nome": "Gustavo Guanabára",
+              "link": ""
+            }
+          ],
+          "conhecimentos": [
+            "Comando básicos do JavaScript",
+            "Manipulação básica do DOM"
+          ],
+          "cursando": false
+        }
+      ],
+      "corPrimaria": "#0693e3",
+      "corSecundaria": "#fff",
+      "graduacao": false
+    },
+    {
+      "id": "hora-de-codar",
+      "instituicao": "Hora de Codar",
+      "link": "https://www.youtube.com/@MatheusBattisti",
+      "descricao": "",
+      "aulas": [
+        {
+          "id": "hora-de-codar-vue",
+          "cor": "#4b8",
+          "nome": "Curso de Vue 3",
+          "totalAulas": "34aulas",
+          "totalHoras": "",
+          "link": "https://www.youtube.com/watch?v=wsAQQioPIJs&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL",
+          "ferramentas": [],
+          "projetos": [""],
+          "professores": [
+            {
+              "id": "hora-de-codar-matheus",
+              "nome": "Matheus Battisti",
+              "link": ""
+            }
+          ],
+          "conhecimentos": [
+            "Utilização de várias ferramentas do vue como: v-bind, componentes, props, lifeCycleHooks, etc.",
+            "Simulação de uma API utilizando JSON-Server",
+            "Utilização de loops como o v-for"
+          ],
+          "cursando": false
+        }
+      ],
+      "corSecundaria": "#070C15",
+      "corPrimaria": "#1f9",
+      "graduacao": false
+    },
+    {
+      "id": "baltaio",
+      "instituicao": "Balta.io",
+      "link": "https://balta.io/",
+      "descricao": "",
+      "aulas": [
+        {
+          "id": "hora-de-codar-vue",
+          "cor": "",
+          "nome": "Fundamentos de C#",
+          "totalAulas": "147 Aulas",
+          "totalHoras": "12.2 Horas de Vídeo",
+          "link": "https://balta.io/cursos/fundamentos-csharp",
+          "ferramentas": [],
+          "projetos": [""],
+          "professores": [
+            {
+              "id": "baltaio-andre",
+              "nome": "André Baltieri",
+              "link": ""
+            }
+          ],
+          "conhecimentos": [],
+          "cursando": true
+        }
+      ],
+      "corSecundaria": "#131219",
+      "corPrimaria": "#8625d2",
+      "graduacao": false
+    }
+  ],
+  "graduacoes": [
+    {
+      "id": "ulbra-torres",
+      "instituicao": "Ulbra Torres",
+      "curso": "ADS - Análise e Desenvolvimento de sistemas",
+      "inicio": "01/2023",
+      "final": "00/0000",
+      "cursando": true,
+      "descricao": "",
+      "semestre": "",
+      "aulas": [
+        {
+          "id": "ulbra-algoritimos",
+          "cor": "#2b5b84",
+          "nome": "Introdução a algoritimos",
+          "descricao": "",
+          "semestre": "01/2023",
+          "professores": {
+            "id": "ulbra-juliano",
+            "nome": "Juliano Ramos Matos",
+            "link": ""
+          },
+          "projetos": [],
+          "conhecimentos": [
+            "Lógica de programação",
+            "Uso de estruturas de repetição",
+            "Uso de estrturas condicionais"
+          ],
+          "ferramentas": ["Python", "VSCode"]
+        },
+        {
+          "id": "ulbra-idw",
+          "cor": "#510",
+          "nome": "Intrdução a Desenvolvimento Web",
+          "descricao": "",
+          "semestre": "",
+          "professores": {
+            "id": "ulbra-juliano",
+            "nome": "Juliano Ramos Matos",
+            "link": ""
+          },
+          "projetos": [],
+          "conhecimentos": [
+            "Criação de estruturas básicas em HTML",
+            "Utilização de CSS para estilização e responsividade",
+            "Uso de Bootstrap como framework de CSS"
+          ],
+          "ferramentas": ["HTML", "CSS", "JavaScript", "VSCode"]
+        },
+        {
+          "cor": "#900",
+          "id": "ulbra-redes",
+          "descricao": "",
+          "semestre": "",
+          "nome": "Princípios de Segurança e Redes de Computadores",
+          "professores": {
+            "id": "ulbra-candido",
+            "nome": "Joao Candido de Lima",
+            "link": ""
+          },
+          "projetos": [],
+          "conhecimentos": [
+            "Topologia de redes",
+            "Protocolos de endereçamento TCP/IP",
+            "Códigos maliciosos"
+          ],
+          "ferramentas": []
+        },
+        {
+          "id": "ulbra-engenhariaSortware",
+          "cor": "#149",
+          "nome": "Engenharia de Software",
+          "descricao": "",
+          "semestre": "",
+          "professores": {
+            "id": "ulbra-juliano",
+            "nome": "Juliano Ramos Matos",
+            "link": ""
+          },
+          "projetos": [],
+          "conhecimentos": [
+            "Ciclos de Vida de Um Software",
+            "Metodologias de desenvolvimento",
+            "Arquitetura de Software"
+          ],
+          "ferramentas": ["Figma"]
+        },
+        {
+          "id": "ulbra-LCP",
+          "cor": "#A259FF",
+          "nome": "Laboratório de Criatividade e Projetos",
+          "descricao": "",
+          "semestre": "",
+          "professores": {
+            "id": "ulbra-andrezza",
+            "nome": "Andrezza Vieira de Andrade",
+            "link": ""
+          },
+          "projetos": [],
+          "conhecimentos": [
+            "Benchmarking",
+            "Personas, Brainstorming e Priorização",
+            "Wireframes e Prototype"
+          ],
+          "ferramentas": ["Figma"]
+        },
+        {
+          "id": "ulbra-pw",
+          "cor": "#fff",
+          "nome": "Programação WEB",
+          "descricao": "",
+          "semestre": "",
+          "professores": {
+            "id": "ulbra-saraiva",
+            "nome": "Lucas Saraiva Cardoso",
+            "link": ""
+          },
+          "projetos": [],
+          "conhecimentos": ["Estrutura MVC", "Criação de API"],
+          "ferramentas": ["PHP", "Symfony", "Composer"]
+        },
+        {
+          "id": "ulbra-IAC",
+          "cor": "#129",
+          "nome": "Introdução a Computação",
+          "descricao": "",
+          "semestre": "",
+          "professores": {
+            "id": "ulbra-marize",
+            "nome": "Marise Hainzenreder",
+            "link": ""
+          },
+          "projetos": [],
+          "conhecimentos": [
+            "Vercionamento com o Git",
+            "Hisória da técnologia",
+            "Conversão de Bases e Tabela Verdade",
+            "WordPress"
+          ],
+          "ferramentas": ["Git", "Github", "Wordpress"]
+        },
+        {
+          "id": "ulbra-LP",
+          "cor": "#429",
+          "nome": "Laboratório de Programação",
+          "descricao": "",
+          "semestre": "",
+          "professores": {
+            "id": "ulbra-fogaca",
+            "nome": "Lucas Rodrigues Schwartzhaupt Fogaca",
+            "link": ""
+          },
+          "projetos": [],
+          "conhecimentos": [
+            "Pilares da POO",
+            "Criação e implementação de interfaces",
+            "Criação de classes abstratas e derivadas"
+          ],
+          "ferramentas": ["C#", "VSCode", "DotNET"]
+        },
+        {
+          "id": "ulbra-FDB",
+          "cor": "#503",
+          "nome": "Fundamento de Banco de Dados",
+          "descricao": "",
+          "semestre": "",
+          "professores": {
+            "id": "ulbra-marize",
+            "nome": "Marise Hainzenreder",
+            "link": ""
+          },
+          "projetos": [],
+          "conhecimentos": [
+            "Modelos conceituais, modelos ER e modelos lógicos de banco de dados.",
+            "Criação e Tabelas, alteração e exclusão via SQL",
+            "Criação de DML para a inserção de dados nas tabelas"
+          ],
+          "ferramentas": ["SQL Server", "VSCode", "SQL"]
+        }
+      ],
+      "corSecundaria": "#F1EAD8",
+      "corPrimaria": "#591B1C",
+      "graduacao": true
+    }
+  ],
+  "projetos":[
+    {
+      "id": "number-analyzer",
+      "origem": "Curso",
+      "nome": "Analizador de Números",
+      "descricao": "O projeto é feito com html, css e js. Você pode digitar números ente um e cem até vocÊ decidri finalizar. Ao finalizar o analizador te diz: A quantidade de números digitados, o menor e o maior número da sequencia, a soma e aedia dos números digitados",
+      "tags": ["html", "css", "js"],
+      "link": "",
+      "cor": "#FD7161"
+    },
+    {
+      "id": "fantastic-animals",
+      "origem": "Curso",
+      "nome": "Animais Fantásticos",
+      "descricao": "Porjeto montado durante um curso de JavaScritp puro, portanto o site é bem interativo. Com várias interações ao scroll e ao click.",
+      "tags": ["html", "css", "js"],
+      "link": "",
+      "cor": "#fb5"
+    },
+    {
+      "id": "counter",
+      "origem": "Curso",
+      "nome": "Contador de numeros",
+      "descricao": "Pojeto bem básico de JS. Nele você pode dizer em que número a contagem irá iniciar e onde ela irá terminar, dizendo tambem a quandtidade de umeros ele deve contar (De 1 em 1. 2 em2, etc.). Abaixo da seleção ele mostra a contagem.",
+      "tags": ["html", "css", "js"],
+      "link": "",
+      "cor": "#219"
+    },
+    {
+      "id": "google-glass",
+      "origem": "Curso",
+      "nome": "Site GoogleGlass",
+      "descricao": "Site feito durante um curso de HTML5. A aplicação éfetita com HTML puro e CSS, e um pouquinho de JS.",
+      "tags": ["html", "css", "js"],
+      "link": "",
+      "cor": "#606060"
+    },
+    {
+      "id": "make-burguer",
+      "origem": "Curso",
+      "nome": "Make Your Burguer",
+      "descricao": "A aplicação é visada para montagem de hamburguers. Nela é possivel montar seu hamburguer da forma que desejar e enviar a produção. Podemos definir também como está o andamneto do pedido. Foi usado JSON-Serverpara simular o back-end durante o projeto.",
+      "tags": ["html", "css", "vue.js"],
+      "link": "",
+      "cor": "#EFA335"
+    },
+    {
+      "id": "day-time",
+      "origem": "Curso",
+      "nome": "Hora do dia",
+      "descricao": "Código desenvolvido durante um curso de JS. A função do projeto é simplismente pegar a hora atual do seu computador, e com isso te mostrar a hora cheia e uma imagem. Dependendo o horário a imagem e a cor de fundo mudam.",
+      "tags": ["html", "css", "js"],
+      "link": "",
+      "cor": "#995f97"
+    },
+    {
+      "id": "ranek",
+      "origem": "Curso",
+      "nome": "Ranek",
+      "descricao": "",
+      "tags": ["html", "css", "vue.js"],
+      "link": "",
+      "cor": "#87f"
+    },
+    {
+      "id": "techno",
+      "origem": "Curso",
+      "nome": "Techno",
+      "descricao": "Projeto feito em vue via CDN. Na aplicação é possivel visulizar itens e os adiciona-los no carrinho. Caso deseje pode excluilos do carrinho também. Ao finalizar a compra, nada acontece, pois não foi feito o regramento de venda.",
+      "tags": ["html", "css", "vue.js"],
+      "link": "",
+      "cor": "#ccc"
+    },
+    {
+      "id": "age-checker",
+      "origem": "Curso",
+      "nome": "Verificador de Idade",
+      "descricao": "Progama que pergunta sua data de nascimento e sexo, em seguida faz uma verificação e baseado nos dados mostra uma imagem e uma frase referente sua faixa etária e sexo.",
+      "tags": ["html", "css", "js"],
+      "link": "",
+      "cor": "#059"
+    },
+    {
+      "id": "api-php",
+      "origem": "Faculdade",
+      "nome": "API em PHP",
+      "descricao": "Usando o Symfony e o Composer durante um dos semestres da faculdade, criamos uma api atrávez de linahs de comando. Na api é possivel fazer o CRUD completo de carros e seus donos",
+      "tags": ["php", "composer", "symfony"],
+      "link": "",
+      "cor": "#777BB3"
+    },
+    {
+      "id": "constrular",
+      "img": "@/assets/images/projects/constrular.png",
+      "origem": "Faculdade",
+      "nome": "Constrular",
+      "descricao": "Site feito para avaliação final de uma das cadeiras inicias da faculdade. Sua estrutura é feita em html e seu JS e CSS é feito utilizado somente o framework Bootstrap",
+      "tags": ["html", "bootstrap"],
+      "link": "",
+      "cor": "#216EFB"
+    },
+    {
+      "id": "",
+      "origem": "",
+      "nome": "",
+      "descricao": "",
+      "tags": [],
+      "link": "",
+      "cor": ""
+    },
+    {
+      "id": "",
+      "origem": "",
+      "nome": "",
+      "descricao": "",
+      "tags": [],
+      "link": "",
+      "cor": ""
+    }
+  ],
+  "hardSkills":[
+    {
+      "id": "html",
+      "nome": "HTML",
+      "descricao": "",
+      "principal": true,
+      "conhecimento": "",
+      "cor": "#F16529"
+    },
+    {
+      "id": "vue",
+      "nome": "Vue.js",
+      "decricao": "",
+      "principal": true,
+      "conhecimento": "",
+      "cor": "#4b8"
+    },
+    {
+      "id": "css",
+      "nome": "CSS",
+      "descricao": "",
+      "principal": true,
+      "conhecimento": "",
+      "cor": "#039BE5"
+    },
+    {
+      "id": "js",
+      "nome": "JavaScript",
+      "descricao": "",
+      "principal": true,
+      "conhecimento": "",
+      "cor": "#FFD600"
+    },
+    {
+      "id": "python",
+      "nome": "Python",
+      "descricao": "",
+      "principal": false,
+      "conhecimento": "",
+      "cor": "#3774A7"
+    },
+    {
+      "id": "react",
+      "nome": "React",
+      "descricao": "",
+      "principal": false,
+      "conhecimento": "",
+      "cor": "#00D8FF"
+    },
+    {
+      "id": "php",
+      "nome": "PHP",
+      "descricao": "",
+      "principal": false,
+      "conhecimento": "",
+      "cor": "#777BB3"
+    },
+    {
+      "id": "node",
+      "nome": "Node.JS",
+      "descricao": "",
+      "principal": false,
+      "conhecimento": "",
+      "cor": "#8CC84B"
+    },
+    {
+      "id": "c-sharp",
+      "nome": "C#",
+      "descricao": "",
+      "principal": false,
+      "conhecimento": "",
+      "cor": "#9866D3"
+    },
+    {
+      "id": "java",
+      "nome": "Java",
+      "descricao": "",
+      "principal": false,
+      "conhecimento": "",
+      "cor": "#5382A1"
+    },
+    {
+      "id": "bootstrap",
+      "nome": "Bootstrap",
+      "descricao": "",
+      "principal": false,
+      "conhecimento": "",
+      "cor": "#673AB7"
+    },
+    {
+      "id": "wordpress",
+      "nome": "WordPress",
+      "descricao": "",
+      "principal": false,
+      "conhecimento": "",
+      "cor": "#01579B"
+    },
+    {
+      "id": "sql-server",
+      "nome": "SQL Server",
+      "descricao": "",
+      "principal": false,
+      "conhecimento": "",
+      "cor": "#EF3737"
+    },
+    {
+      "id": "figma",
+      "nome": "Figma",
+      "descricao": "",
+      "principal": true,
+      "conhecimento": "",
+      "cor": "#09CD81"
+    }
+  ]
+  
+}
